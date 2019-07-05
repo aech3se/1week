@@ -1,2 +1,2 @@
-# aech3se1week.github.io
+# https://aech3se.github.io/1week/
 1week
